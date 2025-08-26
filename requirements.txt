@@ -1,0 +1,15 @@
+# Core
+streamlit
+pandas
+python-dotenv
+
+# Google Generative AI
+google-generativeai
+
+# Visualization
+plotly
+folium
+streamlit-folium
+
+# Optional TTS
+gTTS
